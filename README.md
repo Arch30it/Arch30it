@@ -1,7 +1,7 @@
 ## Hey, I’m Archit 👋 ...
 
 ## About Me 🚀:
-I'm a Master's student at the University of Technology Sydney (UTS), currently studying **Master of Data Science and Innovation**. With a passion for exploring data-driven solutions, I specialize in uncovering insights from complex datasets and leveraging technology to solve real-world problems. My academic journey has equipped me with a strong foundation in data science, machine learning, and innovative applications of AI across various domains.
+I'm a Master's student at the **University of Technology Sydney (UTS)**, currently studying **Master of Data Science and Innovation**. With a passion for exploring data-driven solutions, I specialize in uncovering insights from complex datasets and leveraging technology to solve real-world problems. My academic journey has equipped me with a strong foundation in data science, machine learning, and innovative applications of AI across various domains.
 
 - University: University of Technology Sydney (UTS)
 - Degree: Master of Data Science and Innovation
